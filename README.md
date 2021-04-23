@@ -4,7 +4,7 @@
 
 **Input:**
 
-_an_ _undirected_ _graph_ _is_ _presented_ _as_ _a_ _sequence_ _of_ _edges_ with_ _travel_ _time_
+_an_ _undirected_ _graph_ _is_ _presented_ _as_ _a_ _sequence_ _of_ _edges_ _with_ _travel_ _time_
 
 [A,B,1] [A,C,1] [A,D,6] [A,E,8] [B,D,3] [C,D,2] [D,E,3]
 
