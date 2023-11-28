@@ -1,4 +1,4 @@
-# Algorithms
+# Dijkstra's Algorithm
 
 ### DijkstrasPaths solution determines the shortest path between two edges using Dijkstra's algorithm.
 
